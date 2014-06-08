@@ -1,0 +1,16 @@
+Logitech G-Series LUA API
+=========================
+
+Thank you for downloading the LGS LUA API. I created it to make it easier for the people that use the LUA scripting for Logitech Gaming Software. 
+
+For full documentation of each command:
+1: Click on the down arrow on the lower left of the profile icon.
+2: Click "Scripting"
+3: On top of the new window, click on "Help"
+4: Click "Scripting API"
+
+If you see anything missing, incorrect, or would like to contribute, please let me know on the GitHub page:
+https://github.com/Skullmonkey/LGS-LUA
+
+Issues:
+https://github.com/Skullmonkey/LGS-LUA/issues
