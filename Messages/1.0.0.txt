@@ -1,0 +1,10 @@
+Logitech G-Series LUA API
+=========================
+
+-Initial release
+
+If you see anything missing, incorrect, or would like to contribute, please let me know on the GitHub page:
+https://github.com/Skullmonkey/LGS-LUA
+
+Issues:
+https://github.com/Skullmonkey/LGS-LUA/issues
