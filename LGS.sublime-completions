@@ -26,6 +26,7 @@
       { "trigger": "MoveMouseTo()", "contents": "MoveMouseTo(${1:x}, ${2:y})\n$0" },
       { "trigger": "MoveMouseWheel()", "contents": "MoveMouseWheel(${1:(+/-)#})\n$0" },
       { "trigger": "MoveMouseRelative()", "contents": "MoveMouseRelative(${1:(+/-)x}, ${2:(+/-)y})\n$0" },
+      { "trigger": "MoveMouseToVirtual()", "contents": "MoveMouseToVritual(${1:x}, ${2:y})\n$0" },
       { "trigger": "GetMousePosition()", "contents": "x, y = GetMousePosition();\n$0" },
       { "trigger": "OutputLCDMessage()", "contents": "OutputLCDMessage(\"${1:message}\"${2:, display time in MS})\n$0" },
       { "trigger": "ClearLCD()", "contents": "ClearLCD()\n$0" },
@@ -37,5 +38,6 @@
       { "trigger": "SetMouseDPITable()", "contents": "SetMouseDPITable({${1:value 1}, ${2:value 2}, ${3:value 3}}, ${4:Set value to use})\n$0" },
       { "trigger": "SetMouseDPITaleIndex()", "contents": "SetMouseDPITaleIndex(${1:number})\n$0" },
       { "trigger": "EnablePrimaryMouseButtonEvents()", "contents": "EnablePrimaryMouseButtonEvents(${1:true, false})\n$0" },
+      { "trigger": "SetSteeringWheelProperty()", "contents": "SetSteeringWheelProperty(${1:device(G29,G920)}, ${2:property}, ${3:value})\n$0"},
     ]
 }
