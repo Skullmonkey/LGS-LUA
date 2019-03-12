@@ -26,7 +26,7 @@
       { "trigger": "MoveMouseTo()", "contents": "MoveMouseTo(${1:x}, ${2:y})\n$0" },
       { "trigger": "MoveMouseWheel()", "contents": "MoveMouseWheel(${1:(+/-)#})\n$0" },
       { "trigger": "MoveMouseRelative()", "contents": "MoveMouseRelative(${1:(+/-)x}, ${2:(+/-)y})\n$0" },
-      { "trigger": "MoveMouseToVirtual()", "contents": "MoveMouseToVritual(${1:x}, ${2:y})\n$0" },
+      { "trigger": "MoveMouseToVirtual()", "contents": "MoveMouseToVirtual(${1:x}, ${2:y})\n$0" },
       { "trigger": "GetMousePosition()", "contents": "x, y = GetMousePosition();\n$0" },
       { "trigger": "OutputLCDMessage()", "contents": "OutputLCDMessage(\"${1:message}\"${2:, display time in MS})\n$0" },
       { "trigger": "ClearLCD()", "contents": "ClearLCD()\n$0" },
