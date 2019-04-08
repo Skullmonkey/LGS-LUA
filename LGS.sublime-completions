@@ -36,7 +36,7 @@
       { "trigger": "SetBacklightColor()", "contents": "SetBacklightColor(${1:red 0-255}, ${2:Green 0-255}, ${3:blue 0-255}${4:, [family] kb, lhc})\n$0" },
       { "trigger": "OutputDebugMessage()", "contents": "OutputDebugMessage(\"${1:text}\")\n$0" },
       { "trigger": "SetMouseDPITable()", "contents": "SetMouseDPITable({${1:value 1}, ${2:value 2}, ${3:value 3}}, ${4:Set value to use})\n$0" },
-      { "trigger": "SetMouseDPITaleIndex()", "contents": "SetMouseDPITaleIndex(${1:number})\n$0" },
+      { "trigger": "SetMouseDPITableIndex()", "contents": "SetMouseDPITableIndex(${1:number})\n$0" },
       { "trigger": "EnablePrimaryMouseButtonEvents()", "contents": "EnablePrimaryMouseButtonEvents(${1:true, false})\n$0" },
       { "trigger": "SetSteeringWheelProperty()", "contents": "SetSteeringWheelProperty(${1:device(G29,G920)}, ${2:property}, ${3:value})\n$0"},
     ]
