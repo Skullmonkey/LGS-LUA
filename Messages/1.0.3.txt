@@ -1,0 +1,5 @@
+1.0.3
+-Fixed typo in SetMouseDPITableIndex()
+
+Issues:
+https://github.com/Skullmonkey/LGS-LUA/issues
